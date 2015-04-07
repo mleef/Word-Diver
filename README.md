@@ -16,7 +16,7 @@ Screenshots
 ![alt text](https://raw.githubusercontent.com/mleef/Word-Diver/master/resources/images/screens/Screenshot2.png “Menu”)
 
 ### Hectic Gameplay
-![alt text](https://raw.githubusercontent.com/mleef/Word-Diver/master/resources/images/screens/Screenshot1.png “Hectic Gameplay”)
+![alt text](https://raw.githubusercontent.com/mleef/Word-Diver/master/resources/images/screens/Screenshot1.png “Hectic Gameplay“)
 
 ### More Hectic Gameplay with Balloons
 ![alt text](https://raw.githubusercontent.com/mleef/Word-Diver/master/resources/images/screens/Screenshot3.png "More Hectic Gameplay with Balloons")
