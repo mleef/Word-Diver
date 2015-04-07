@@ -1,7 +1,26 @@
-# Word Diver
-Word Diver is a fast-paced game for iOS that combines elements of Tetris and Scrabble. Catch the falling letters and use them to spell words before time runs out! Pop balloons for bonus points.
+---
+title: Word Diver
+description: Simple iOS word/puzzle game
+author: Marc Leef
+created:  2012 September 4th
+modified: 2015 April 8th
+---
 
-Available on the App Store: https://itunes.apple.com/us/app/word-diver/id556417187?mt=8
+# Word Diver
+Word Diver is a fast paced game for iOS that combines elements of Tetris and Scrabble.
+
+Screenshots
+-----------
+
+### Menu
+![alt text](https://github.com/mleef/Word-Diver/resources/images/screen/Screenshot2.png “Menu”)
+
+### Hectic Gameplay
+![alt text](https://github.com/mleef/Word-Diver/resources/images/screen/Screenshot1.png “Hectic Gameplay”)
+
+### More Hectic Gameplay with Balloons
+![alt text](https://github.com/mleef/Word-Diver/resources/images/screen/Screenshot3.png "More Hectic Gameplay with Balloons")
+
 
 Contact
 -------
