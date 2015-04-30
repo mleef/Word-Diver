@@ -8,6 +8,7 @@ modified: 2015 April 8th
 
 # Word Diver
 Word Diver is a fast paced game for iOS that combines elements of Tetris and Scrabble.
+[Check it out on the app store!](https://itunes.apple.com/us/app/word-diver/id556417187?mt=8)
 
 Screenshots
 -----------
